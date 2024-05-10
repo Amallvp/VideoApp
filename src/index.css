@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  background-repeat:none;
+ padding: 0;
+ overflow-x: hidden;
+
+}
+#head{
+  font-family: 'Permanent Marker', cursive;
+  /* font-family: 'Roboto', sans-serif;; */
+}
+.add{
+ margin-left: 39px;
+}
+
+.footer{
+  font-size: 13px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.ms{
+  margin-left: 150px;
+}
+@media (max-width:500px) {
+
+  img{
+    
+    width: 40vh;
+    height: 40vh;
+  }
+
+  .video{
+
+    text-align: center;
+  }
+  
+  .ms{
+    font-size:23px;
+    display: flex;
+    justify-content: center;
+  
+   
+  }
+
+  .mb-4{
+    font-size:15px;
+    text-align: justify;
+    
+  }
+  .mb-2{
+    font-size:15px;
+    text-align: justify;
+  }
+
+  .head{
+    font-size:18px;
+    text-align:center;
+  }
+
+  .mt-1{
+    font-size: 13px;
+    
+  }
+  .bt{
+    display: flex;
+    justify-content: center;
+  
+  }
+  .add{
+    font-size:11px;
+   text-align: left;
+   margin: 17px;
+   
+  }
+
+    .col1{
+      padding: 1rem;
+    }
+    .d-grid{
+      display: flex;
+      justify-content: center;
+    }
+    .fs{
+     font-size: 15px;
+    }
+    .text-center{
+      font-size:12px;
+   text-align: left;
+   margin: 19px;
+    }
+    .trash{
+      margin-right: 45px;
+    
+    }
+   
+  }

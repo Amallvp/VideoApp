@@ -1,0 +1,28 @@
+api request 
+-----------------
+
+video add  -  post - url ,body
+
+get all video - get  -  url 
+
+add category  -  post - url  , body
+
+delete       -  delete  - url
+
+add video to category - post  - url , body 
+
+
+ella apiyum vendi oru method crete cheyyum , a functionte akath argument ayitt method, url ,body enit a functione call cheyyum .
+
+base url - http://localhost:4000
+
+common request - api structure 
+allApi file  -  reuse api structure
+
+
+js api
+-----------------
+
+fetch/axios  - for api call
+
+
